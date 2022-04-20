@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>Speaking Is Easy</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <link rel="preconnect" href="https://adservice.google.com/"> <link rel="preconnect" href="https://googleads.g.doubleclick.net/"> <link rel="preconnect" href="https://www.googletagservices.com/"> <link rel="preconnect" href="https://tpc.googlesyndication.com/">
+        <meta http-equiv="Content-Language" content="en-us">
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <meta name="google-site-verification" content="cqdLYN-LHQ598xb9dvulRYnClCeK_iwlDYH3Ninqb9Q" />
+
+        <link rel="stylesheet" type="text/css" href="https://www.eslfast.com/membership/assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="https://www.eslfast.com/membership/assets/css/style.css">
+        <link rel="stylesheet" type="text/css" href="https://www.eslfast.com/membership/assets/css/all.css">
+        
+        
+
+        <script src="https://www.eslfast.com/membership/assets/jquery/jquery.min.js"></script>
+        
+        <script src='https://www.eslfast.com/membership/assets/bootstrap/js/bootstrap.min.js'></script>
+        <!-- jquery-validation -->
+        <script src="https://www.eslfast.com/membership/jquery-validation/jquery.validate.min.js"></script>
+        <script src="https://www.eslfast.com/membership/jquery-validation/additional-methods.min.js"></script>
+
+<style> .list-page-container { width: 70%; margin: 0 auto; } .ads-top { padding-top: 8px; } .beginners h2 { padding: 0px 0 46px; position: relative; } .beginners h2:after { position: absolute; content: ''; border-bottom: 1px solid #4151b7; bottom: 44px; transform: translate(-50%, -50%); width: 50%; left: 50%; } </style>
+
+<style> /* div[class^="ads-"] { padding: 0; margin: 0; }*/ </style>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-18587813-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-18587813-1');</script>
+
+<meta name="Description" content="Hundreds of short, easy conversations, American pronunciation, 19 topics, free to use in and out of class.">
+
+</head>
+
+
+<body>  <div class="lonin-pupup modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true"> <div class="modal-dialog modal-dialog-centered" role="document"> <div class="modal-content"> <div class="modal-header"> <button type="button" class="close lon-clos" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button> </div> <div class="modal-body"> <div class="row"> <div class="col-sm-6"></div> <div class="col-sm-6"> <div class="row"> <div class="col-sm-12" id="up_msg_div" style="position: absolute;z-index: 1111;"></div> </div> <div class="login-form-box socal-box-login"> <form method="post" accept-charset="utf-8" id="login_frm" > <h2>Login</h2> <span class="fa-b-icon"><i class="fa fa-key"></i></span> <div class="input-field"> <input type="email" class="phon-input" name="email" placeholder="Email" id="login_email" required=""> </div> <div class="input-field"> <input type="password" class="pass-word" name="password" placeholder="Password" id="password" required=""> </div> <div class="input-submit"> <input type="submit" class="sub-bbt" name="login" value="login" required=""> <div class="text-right"><a href="javascript:void(0);" onclick="$('#exampleModalCenter').modal('hide'); $('#forgotPass').modal('show');"><span class="text-right text-info">Forgot password?</span></a></div> <p>Don't have an Account? <a href="https://www.eslfast.com/membership/signup"> Register Now!</a></p> </div> </form> </div> </div> </div> </div> </div> </div> </div>  <div id="forgotPass" class="modal fade forget-password" data-backdrop="static" data-keyboard="false"> <div class="modal-dialog"> <div class="modal-content"> <form method='post' id='ajax_forgot_password' action='https://www.eslfast.com/membership/api/forgotUserPassword'> <div class="modal-header"> <h4 class="modal-title">Forgot Password</h4> <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button> </div> <div class="modal-body"> <div class="row"> <div class="col-md-12"> <div id="sign-up-page1"></div> <input class="input form-control" type="text" placeholder="Enter Email" name="email" required="" id="forg_email" aria-required="true"> </div> </div> </div> <div class="modal-footer"> <button type="submit" class="seve-btn btn btn-success">Submit</button> </div> </form> </div> </div> </div>
+
+       
+<section class="beginners inner-page" style="padding-bottom: 0;">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+
+                    <h2> Speaking Is Easy </h2>
+
+                </div>
+            </div>
+
+            <div class="list-page-container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="beginners-right">
+                                    <ul>
+
+<li><a href="school.htm"><p><span class="no-box">I</span><span class="contan">School Life</span></p></a></li>
+<li><a href="jobs.htm"><p><span class="no-box">II</span><span class="contan">Jobs</span></p></a></li>
+<li><a href="housing.htm"><p><span class="no-box">III</span><span class="contan">Housing</span></p></a></li>
+<li><a href="bus.htm"><p><span class="no-box">IV</span><span class="contan">Taking the Bus</span></p></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 add-left-gg">
+
+<div class="ads-top ads-buttom"> <center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ESLHomePage --> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-4240992229388079" data-ad-slot="8476603218"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script></center> </div>                  
+                    </div>
+                </div>
+            </div>
+
+
+
+        <div class="list-page-container">   
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="beginners-right">
+                                <ul>
+
+<li><a href="network.htm"><p><span class="no-box">V</span><span class="contan">Social Network</span></p></a></li>
+<li><a href="bank.htm"><p><span class="no-box">VI</span><span class="contan">Banking</span></p></a></li>
+<li><a href="dating.htm"><p><span class="no-box">VII</span><span class="contan">Dating</span></p></a></li>
+<li><a href="driving.htm"><p><span class="no-box">VIII</span><span class="contan">Driving</span></p></a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>                  
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="beginners-right">
+                       <ul>
+
+<li><a href="shop.htm"><p><span class="no-box">IX</span><span class="contan">Shopping</span></p></a></li>
+<li><a href="sports.htm"><p><span class="no-box">X</span><span class="contan">Sports</span></p></a></li>
+<li><a href="social.htm"><p><span class="no-box">XI</span><span class="contan">Social Happenings</span></p></a></li>
+<li><a href="daily.htm"><p><span class="no-box">XII</span><span class="contan">Daily Life</span></p></a></li>
+                    
+                       </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<div class="ads-top"><center> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ResponsiveIndex970x90 --> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4240992229388079" data-ad-slot="8135245216" data-ad-format="auto" data-full-width-responsive="true"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({});</script> </center></div>
+
+        <div class="list-page-container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="beginners-right">
+                                <ul>
+
+<li><a href="family.htm"><p><span class="no-box">XIII</span><span class="contan">Family Matters</span></p></a></li>
+<li><a href="food.htm"><p><span class="no-box">XIV</span><span class="contan">American Foods</span></p></a></li>
+<li><a href="eatout.htm"><p><span class="no-box">XV</span><span class="contan">Eating Out</span></p></a></li>
+<li><a href="health.htm"><p><span class="no-box">XVI</span><span class="contan">Health</span></p></a></li>
+                              
+                                </ul>
+                            </div>
+                        </div>
+                    </div>                  
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="beginners-right">
+                                <ul>
+
+<li><a href="nature.htm"><p><span class="no-box">XVII</span><span class="contan">Nature</span></p></a></li>
+<li><a href="safety.htm"><p><span class="no-box">XVIII</span><span class="contan">Safety</span></p></a></li>
+<li><a href="voting.htm"><p><span class="no-box">XIV</span><span class="contan">Voting</span></p></a></li>
+
+                                </ul>
+                          </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+    </section>
+
+<div class="ads-top ads-buttom"><center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ResponsiveIndex970x90 --> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4240992229388079" data-ad-slot="8135245216" data-ad-format="auto" data-full-width-responsive="true"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({});</script></center></div><br><br>
+ 
+    <section class="inner-link-bbot">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+
+		    <a href="https://www.rong-chang.com/"><b>ESL: English as a Second Language</b></a><br><br>
+
+		    <a href="https://www.eslfast.com/?token=TOKEN_KEY"><b>ESL Fast</b></a><br><br>
+
+                </div>
+            </div>
+        </div>      
+    </section>
+
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <ul>
+
+<center class="social_buttons"><li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Feslfast.com/easyspeak/" target="_blank" rel="noopener"><i class="fa fa-facebook-official fa_custom fa-2x"></i> Share on Facebook</a></li>
+
+<li><a href="https://twitter.com/intent/tweet/?text=ESL%20Fast%20-%20A%20huge%20free%20online%20English%20learning%20resource&amp;url=http%3A%2F%2Feslfast.com/easyspeak/" target="_blank" rel="noopener"><i class="fa fa-twitter-square fa_custom fa-2x"></i>Share on Tweeter</a></li></center>
+
+                        </ul>
+                        <h3>tesl<img src="../img/s.png" alt="" border="0" width="14" height="14">eslfast.com</h3>
+                        <p class="copy-right">Copyright &copy; 2006-2022. All rights reserved. rong-chang ESL, Inc.</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+
+<script>
+            $(document).ready(function () { let searchParams = new URLSearchParams(window.location.search); if (searchParams.has('token')) { let tkn = searchParams.get('token'); setCookie('login_token', tkn, 365); }
+
+                checkCookie();
+//                    $('#exampleModalCenter').modal('show');
+            });
+
+            $('#ajax_forgot_password').validate({
+                submitHandler: function (form) {
+                    jQuery.ajax({
+                        type: 'POST',
+                        data: {email: $('#forg_email').val()},
+                        dataType: 'json',
+
+                        url: 'https://www.eslfast.com/membership/api/checkEmail',
+                    }).done(function (res) {
+                        $('.full_loading').hide();
+                        if (res.status == 'error') {
+                            alert('Email not found');
+                            $('#forg_email').val('');
+                            return false;
+                        }
+                        if (res.status == 'success') {
+                            form.submit();
+                            return true;
+                        }
+
+                    }).fail(function () {
+                        alert('Error found. Try again..');
+                        return false;
+                    });
+
+                    return false;
+                },
+
+                rules: {
+                    email: {
+                        required: true,
+                        email: true
+                    }
+                },
+                messages: {
+                    email: {
+                        required: "Enter your login email."
+                    }
+                },
+                errorElement: 'div',
+                errorClass: 'error text-danger'
+            });
+
+            $('#login_frm').validate({
+                submitHandler: function (form) {
+                    jQuery.ajax({
+                        type: 'POST',
+                        data: $('#login_frm').serialize(),
+                        dataType: 'json',
+//                            beforeSend: function (xhr) {
+//                                xhr.setRequestHeader('X-CSRF-Token',<?= json_encode($this->request->getParam('_csrfToken')); ?>);
+//                            },
+                        url: 'https://www.eslfast.com/membership/api/ajaxLogin',
+                    }).done(function (res) {
+                        if (res.status == 'error') {
+                            $('#up_msg_div').html('<div class="alert alert-danger alert-dismissible fade show" role="alert"><strong>' + res.msg + '</strong> .<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+                        }
+                        if (res.status == 'success') {
+                            $('#up_msg_div').html('<div class="alert alert-success alert-dismissible fade show" role="alert"><strong>' + res.msg + '</strong> .<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+
+                        }
+                        if (res.login_token != '') {
+                            setCookie('login_token', res.login_token, 365);
+                            location.reload();
+
+                        }
+                        return false;
+                    }).fail(function () {
+                        alert('Error found. Try again..');
+                        return false;
+                    });
+
+                    return false;
+                },
+                rules: {
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    password: {
+                        required: true
+                    }
+                },
+                errorElement: 'div',
+                errorClass: 'error text-danger text-left',
+            });
+
+
+            function getCookie(cname) {
+                var name = cname + "=";
+                var decodedCookie = decodeURIComponent(document.cookie);
+                var ca = decodedCookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+
+            function setCookie(cname, cvalue, exdays) {
+                var d = new Date();
+                d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                var expires = "expires=" + d.toUTCString();
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            }
+
+            function checkCookie() {
+                var login_token = getCookie("login_token");
+                if (login_token != "") {
+//                   // alert("token " + login_token);  
+                    jQuery.ajax({
+                        type: 'POST',
+                        data: $('#login_frm').serialize(),
+                        dataType: 'json',
+                        url: 'https://www.eslfast.com/membership/api/valid-token/' + login_token,
+                    }).done(function (res) {
+                       // if ((res.token_key != '') && (res.memb_status == 1)) {
+if ((res.token_key != '')) {
+                            setCookie('login_token', res.token_key, 365);
+                            $('.after_login').show();
+                            $('.before_login').hide();
+                            $('a').each(function () {
+                                let current_url = $(this).attr('href');
+                                let new_url = current_url.replace("TOKEN_KEY", res.token_key);
+
+                                $(this).removeAttr('href');
+                                $(this).attr('href', new_url);
+                            });   
+if ((res.memb_status == 1)) {                         
+                            $('div[class^="ads-"]').remove(); setTimeout(function () { $('.google-auto-placed').hide(); $('.google-auto-placed').remove(); }, 1000);
+}
+                        } else {
+                            $('.after_login').hide();
+                            $('.before_login').show();
+                        }
+                        return false;
+                    }).fail(function () {
+                    });
+
+
+                } else {
+//                     alert("no token ");
+                    $('.after_login').hide();
+                    $('.before_login').show();
+                }
+            }
+
+            function userLogout() {
+                setCookie('login_token', '', 365);
+                window.location.href = "https://www.eslfast.com/membership/logout";
+            }
+
+        </script> 
+
+
+    </body>
+</html>
+
+
+
+
+
